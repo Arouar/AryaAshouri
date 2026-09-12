@@ -1,183 +1,201 @@
+<file>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Arya+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+%7C+Breaking+%7C+Learning">
+[HEADER_ANIMATION]
+TYPEWRITER:
+"Hello, I'm Arya 👋"
+"Full Stack Developer"
+"Cybersecurity Explorer"
+"Building. Breaking. Learning."
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff99">
+[PROFILE_VIEW_COUNTER]
+username: YOUR_USERNAME
+style: futuristic
 
 </div>
 
-# 👨‍💻 About Me
+SECTION: IDENTITY
 
-$ whoami
+╔══════════════════════════════╗
+║ 🧑‍💻 WHO AM I                 ║
+╚══════════════════════════════╝
 
-Arya
+name: Arya
 
-> Full Stack Developer
-> Cybersecurity Enthusiast
-> Problem Solver
+roles:
 
-Currently:
+* Full Stack Developer
+* Security Research Enthusiast
+* Problem Solver
+* Digital Builder
 
-* Building modern web applications
-* Exploring cybersecurity
-* Learning system internals
-* Creating useful tools
+"I like creating things, understanding how they work,
+and discovering how they can be improved."
 
----
+CURRENT_STATE:
 
-# 🧠 Interests
+🟢 Building applications
+🟢 Exploring security
+🟢 Learning system internals
+🟢 Experimenting with technology
 
-⚡ Software Engineering
-🔐 Web Application Security
-🌐 Network Security
+SECTION: SKILL_MATRIX
+
+FRONTEND:
+
+[HTML] [CSS] [JavaScript] [TypeScript]
+[React] [Next.js] [Tailwind]
+
+BACKEND:
+
+[Node.js] [Express]
+[Python] [C++] [Rust]
+
+DATABASE:
+
+[MongoDB] [PostgreSQL] [Redis]
+
+INFRASTRUCTURE:
+
+[Linux] [Docker] [Kubernetes]
+[AWS] [Cloudflare]
+
+TOOLS:
+
+[Git] [GitHub] [VS Code]
+[Neovim] [Bash]
+
+SECTION: CYBER_CORE
+
+🔐 SECURITY DOMAIN
+
+interest_map:
+
+```
+🌐 Web Application Security
+
+🕵 OSINT
+
+🔎 Reconnaissance
+
 🐛 Vulnerability Research
-🕵️ OSINT
-⚔️ Capture The Flag
-🤖 Automation
-🧩 Reverse Engineering
 
----
+⚔ Capture The Flag
 
-# 🛠️ Tech Stack
+🧬 Reverse Engineering
 
-## Frontend
+🛡 Secure Development
+```
 
-HTML
-CSS
-JavaScript
-TypeScript
-React
-Next.js
+SECURITY_TOOLKIT:
 
-## Backend
+```
+Nmap
+Burp Suite
+Wireshark
+Metasploit
+Ghidra
+SQLMap
+Kali Linux
+OWASP Tools
+```
 
-Node.js
-Express
-Python
-C++
-Rust
+SECTION: CREATIONS
 
-## Database
+PROJECT_01:
 
-MongoDB
-PostgreSQL
-Redis
+name:
+LinkVault
 
-## DevOps / Systems
+type:
+Web Application
 
-Linux
-Bash
-Docker
-Kubernetes
-AWS
-Cloudflare
-Git
-GitHub
+description:
+A platform for collecting,
+organizing and sharing useful links.
 
----
-
-# 🔐 Cybersecurity Arsenal
-
-Recon
-
-* Nmap
-* OSINT
-* DNS Enumeration
-
-Web Security
-
-* Burp Suite
-* OWASP Top 10
-* SQL Injection
-* XSS
-
-Network Security
-
-* Wireshark
-* TCP/IP
-* Firewalls
-
-Reverse Engineering
-
-* Ghidra
-* Debugging
-* Binary Analysis
-
----
-
-# 🚀 Featured Projects
-
-## 🔗 LinkVault
-
-A modern platform for collecting, organizing and sharing useful links.
-
-Stack:
-
+stack:
 React
 Node.js
 Database
 
----
+PROJECT_02:
 
-## 🛡️ Security Lab
+name:
+Security Lab
 
-Personal cybersecurity research environment.
+type:
+Research Environment
 
-Topics:
+description:
+Experiments focused on
+understanding systems,
+networks and applications.
 
-Web Security
-Networking
-Exploitation
-Automation
+SECTION: BUILD_PHILOSOPHY
 
----
+```
+    CREATE
+      ↓
+    TEST
+      ↓
+    BREAK
+      ↓
+    UNDERSTAND
+      ↓
+    IMPROVE
+```
 
-# ⚙️ What I Build
+SECTION: LEARNING_QUEUE
 
-╭────────────────────────────╮
-│ Web Applications            │
-│ Developer Tools             │
-│ Security Research Tools     │
-│ Automation Scripts          │
-│ Experimental Projects       │
-╰────────────────────────────╯
+01 :: Advanced Web Security
 
----
+02 :: Cloud Infrastructure
 
-# 📊 GitHub Analytics
+03 :: Reverse Engineering
 
-[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+04 :: System Architecture
 
----
+05 :: Automation
 
-# 🐍 Contribution Snake
+SECTION: STATISTICS
 
-[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+github_stats:
 
----
+```
+username:
+    YOUR_USERNAME
 
-# 📚 Currently Learning
+theme:
+    cyberpunk
 
-1. Advanced Web Security
-2. Cloud Infrastructure
-3. Reverse Engineering
-4. System Internals
-5. Secure Architecture
+display:
+    commits
+    streak
+    activity
+```
 
----
+SECTION: CONNECTIONS
 
-# 📫 Connect
+github:
 
-GitHub:
+```
+https://github.com/YOUR_USERNAME
+```
 
-[https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+linkedin:
 
-LinkedIn:
+```
+https://linkedin.com/in/YOUR_USERNAME
+```
 
-[https://linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
+<div align="center">
 
-"The best way to understand a system is to build it, break it, and rebuild it."
+"Build curious things.
+Understand complex systems.
+Keep improving."
+
+</div>
 
 </file>
